@@ -8,9 +8,8 @@ Descreva aqui sua dúvida.
 <!--
 DICA: Se você precisar adicionar trechos de código, coloque-os entre 3 crases,
 assim:
-```
-function blabla () {
-}
+```rescript
+let blabla = () => Js.log("Here")
 ```
 Colocando 3 crases antes, 3 crases depois, o código aparecerá corretamente
 formatado.
