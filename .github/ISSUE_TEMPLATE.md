@@ -18,7 +18,7 @@ visualizar se a formatação está correta :)
 -->
 
 <br>
-<hr> 
 
+## 
 <!-- Não apague daqui pra baixo! -->
 @vmarcosp @fakenickels
